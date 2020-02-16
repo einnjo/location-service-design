@@ -1,0 +1,2 @@
+export const DEVICE_CACHE = 'DEVICE_CACHE';
+export const GEOHASH_CACHE = 'GEOHASH_CACHE';
